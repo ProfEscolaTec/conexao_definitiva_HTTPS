@@ -4,4 +4,4 @@
 
 
 
-print("Maralilha... Deu tudo certo no ultimo push... abriu a janela de autorização e ao aceitar, realizou o push direto")
+print("Tudo Funcionando! dia 06/06/2024 - as 19:20 - o push na chave HTTPS esta funcionando diretamente sem autorização")
