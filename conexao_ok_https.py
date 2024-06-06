@@ -1,0 +1,1 @@
+print("Deu tudo certo no push -u origin main com a chave HTTPS")
